@@ -1,0 +1,32 @@
+_repo: The-Bible-Period-by-PeriodA-Manual-for-the-Study-of-the-Bible-by-Periods_15771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tidwell, Josiah Blake
+    alias: Tidwell, J. B. (Josiah Blake)
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '6276'
+    url: http://www.gutenberg.org/2009/agents/6276
+    wikipedia: http://www.tsha.utexas.edu/handbook/online/articles/view/TT/ftide.html
+description: ''
+gutenberg_issued: '2005-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Commentaries'
+- !lcsh 'Bible -- History of Biblical events'
+- !lcc 'BS'
+- !lcsh 'Bible -- Introductions'
+title: 'The Bible Period by Period
+
+  A Manual for the Study of the Bible by Periods'
+url: http://www.gutenberg.org/ebooks/15771
